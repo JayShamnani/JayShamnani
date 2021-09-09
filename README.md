@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-<a href="https://dev.to/jayshamnani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jayshamnani" height="30" width="30" /></a>&nbsp;
+<a href="https://dev.to/jayshamani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jayshamnani" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/jayshamnani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jayshamnani" height="30" width="30" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/13842084/jay-shamnani" target="blank"><img align="center" src="https://cdsn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="164268" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13842084/jay-shamnani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="164268" height="30" width="30" /></a>
 </p>
 
 <!--
