@@ -6,6 +6,8 @@
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JayShamnani&show_icons=true&count_private=1" alt="JayShamnani" /></a></p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Google-FFFFFF?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-FFFFFF?style=for-the-badge&logo=google-cloud"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
